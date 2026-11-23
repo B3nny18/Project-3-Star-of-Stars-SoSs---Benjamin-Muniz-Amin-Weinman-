@@ -154,4 +154,3 @@ No functional bugs known. Minor limitations:
 ## Git Repository
 
 https://github.com/B3nny18/Project-3-Star-of-Stars-SoSs---Benjamin-Muniz-Amin-Weinman-
-```
